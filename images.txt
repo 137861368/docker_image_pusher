@@ -1,1 +1,1 @@
-gocv/opencv:4.5.5
+ghcr.io/1panel-dev/maxkb-vector-model:v1.0.1
